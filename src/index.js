@@ -3,3 +3,5 @@ function sayHi(name) {
 }
 // this is a test comment 
 module.exports = sayHi
+
+const name = "christopher"
